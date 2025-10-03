@@ -17,10 +17,7 @@ This project demonstrates my Power BI skills through the development of an inter
 - Interactive Elements: Slicers and filters for user-driven analysis
 
 ## Screenshots
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-
-## How to Use
-- Download the `.pbix` Power BI file from this repository.
-- Open it in Power BI Desktop (version X or later recommended).
+![Screenshot 1](./assets/Start.png)
+![Screenshot 2](./assets/Overview.png)
+d).
 - Explore the pre-built reports and interact with the slicers.
