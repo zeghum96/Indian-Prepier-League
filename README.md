@@ -20,6 +20,6 @@ This project demonstrates my Power BI skills through the development of an inter
 ![Screenshot 1](./assets/Start.png)
 ![Screenshot 2](./assets/Overview.png)
 ![Screenshot 3](./assets/Teams%20Profile.png)
-![Screenshot 4](./assets/Players Profile.png)
+![Screenshot 4](./assets/Players%20Profile.png)
 d).
 - Explore the pre-built reports and interact with the slicers.
